@@ -1,0 +1,10 @@
+1.	¿Qué es el staging en git?
+El staging en git es el área donde preparas los cambios antes de hacer un commit.
+2.	¿Qué comando utilizas para ver el estado actual de los archivos en tu repositorio? 
+El comando git status.
+3.	¿Qué información te proporciona? 
+El estado actual de los archivos en el repositorio local.
+4.	¿Cuál es la diferencia entre git add y git commit? 
+El comando git add es el que añade los archivos al staging área y los prepara para subirlos, mientras que el comando git commit guarda los cambios en el repositorio local.
+5.	¿Qué información te proporciona el comando git log?
+El comando git log es el que muestra el historial de commits, proporcionando información, como el id del commit, autor, fecha y mensaje asociado.

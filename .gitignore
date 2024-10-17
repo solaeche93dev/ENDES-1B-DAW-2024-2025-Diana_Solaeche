@@ -1,2 +1,5 @@
 *.log 
 temp/ 
+*.env
+~$*.docx
+node_modules/
